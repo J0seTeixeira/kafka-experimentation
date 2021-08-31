@@ -1,0 +1,13 @@
+(ns consts)
+
+(def near-home [51.4966491 -0.0176768])
+(def greenwich [51.4874009 -0.012965])
+(def deptford [51.4779909 -0.0352394])
+(def peckham [51.4720337 -0.0739159])
+(def brixton [51.456543 -0.1295497])
+(def vauxhall [51.4843504 -0.1250761])
+(def waterloo [51.503408 -0.1173428])
+(def elephant-castle [51.4952136 -0.1019788])
+(def shadwell [51.5157767 -0.0695375])
+(def spitalfields [51.5187192 -0.0793482])
+(def islington [51.5343115,-0.1145155])
